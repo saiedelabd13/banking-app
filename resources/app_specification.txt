@@ -1,0 +1,30 @@
+On veut implementer une application bancaire qui permet d'effectuer les operations suivantes:
+
+- Gestion des roles (ADMIN, CLIENT, MANAGER)
+- Gestion des utilisateurs
+    - Les agents
+- Gestion des comptes
+    - Creation des comptes
+    - Desactiver un compte (suite a une demande)
+    - Activer un compte
+
+- Notifications (a ignorer)
+
+- Gestion des benificaires
+
+- Gestion des transactions
+    - Effectuer un virement
+    - Effectuer un retrait d'argent (Withdrawal)
+    - Deposer de l'argent
+    - Consulter l'historique des transactions
+    -> Les frais bancaire (wa9t tab3eth / tejbed flous ==> n9ossou des frais)
+
+- Detection des operations frauduleuses
+    - Lorsqu'on effectue un virement >= 5000 (Niveau 1)
+    - Si le montant >= 40% du montant global (Niveau 2)
+
+
+- La Securite
+    - Authentification
+    - Bloquer un utilisateur
+    - ...
